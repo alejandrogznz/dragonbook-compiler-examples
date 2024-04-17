@@ -1,0 +1,11 @@
+1.1.1 What is the difference between a compiler and interpreter?
+---- A compiler translates a source program to a target program in a different
+---- language or variation.
+
+1.1.2 What are the advantages of (a) a compiler over and interpreter (b) an interpreter over a compiler
+---- (a) A compiler typically outputs machine level language that can be executed directly by a machine, giving
+---- a speed advantage over the interpreter.
+---- (b) An interpreter may give a better error diagnostic as each line in the source is executed statement by statement
+
+1.1.3 What advantages are there to a  language-processing system in which the compiler produces assembly language rather than machine language?
+
